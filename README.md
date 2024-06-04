@@ -18,7 +18,7 @@
 > As the start, we only do stuff in the `Console` tab.
 
 > [!WARNING]
-> DO NOT try experiments and codes in your stable Discord client unless you know what you are doing. Instead, use [Discord Public Test Build](https://ptb.discord.com/download) or [Discord Canary Build](https://canary.discord.com/download)
+> **DO NOT** try to do experiments in your stable Discord client unless you know what you are doing. There are many chances that you will either break your client or get your account disabled. Instead, use [Discord Public Test Build](https://ptb.discord.com/download) or [Discord Canary Build](https://canary.discord.com/download)
 
 ### Major Functions
 
