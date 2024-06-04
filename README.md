@@ -1,4 +1,4 @@
-# DISCORD DATAMINING WIKI & RESOURCES
+# 🐰 DISCORD DATAMINING WIKI & RESOURCES
 
 - Here you can find the basics of `findByProps` and `discord webpack` to get started on Datamining. Contributions such as **pull-requests of code** are welcomed, but make sure it is worth using.
 
