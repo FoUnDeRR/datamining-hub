@@ -3,10 +3,18 @@
 ![uwu](https://img.shields.io/badge/just%20bunnies%20owo-FFB6C1)
 
 
-- Here you can find the basics of `findByProps` and `discord webpack` to get started on Datamining. Contributions such as <kbd>Pull Requests</kbd> are welcomed, but make sure it is worth using.
+- Here you can find the basics of `findByProps` and `discord webpack` to get started on Datamining. Contributions such as <kbd>[Pull Requests](https://github.com/FoUnDeRR/datamining-hub/pulls)</kbd> are welcomed, but make sure it is worth using.
 
 > [!IMPORTANT]
 > This is a small project I thought to start for people who don't know about **Datamining**. So nothing serious.
+
+### Table of Content
+
+- [Getting Started](#getting-started)
+- [Basics of the Basics](#basics-of-the-basics)
+- [Major Functions](#major-functions)
+
+---
 
 ## Getting started
 
