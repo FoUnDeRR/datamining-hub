@@ -1,3 +1,5 @@
+![DISCORD DATAMINING HUB](src/assets/github/readme-banner.png)
+
 # 🐰 DISCORD DATAMINING WIKI & RESOURCES
 
 ![uwu](https://img.shields.io/badge/just%20bunnies%20owo-FFB6C1)
