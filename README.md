@@ -37,4 +37,4 @@ findByProps("getUser").getUser("<user id>");
 
 `.getUser` is to confirm that we are about to execute this function. Functions in Discord are often called as **Props**.
 
-#### More coming soon!
+<kbd>Coming Soon!</kbd>
