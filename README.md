@@ -7,7 +7,7 @@
 
 ## Getting started
 
-### Prequisities
+### Prerequisites
 
 1. A good knowledge about JavaScript & TypeScript
 2. Familiarility with functions (..props), modules, strings, experiments
@@ -17,7 +17,7 @@
 > `CTRL + SHIFT + I` to open Chrome Developer Tools, or since it's Discord, **DevTools**.
 > As the start, we only do stuff in the `Console` tab.
 
-> [!WARNING]
+> [!WARNING] > 
 > **DO NOT** try to do experiments in your stable Discord client unless you know what you are doing. There are many chances that you will either break your client or get your account disabled. Instead, use [Discord Public Test Build](https://ptb.discord.com/download) or [Discord Canary Build](https://canary.discord.com/download)
 
 ### Major Functions
