@@ -1,6 +1,6 @@
 # 🐰 DISCORD DATAMINING WIKI & RESOURCES
 
-- Here you can find the basics of `findByProps` and `discord webpack` to get started on Datamining. Contributions such as **pull-requests of code** are welcomed, but make sure it is worth using.
+- Here you can find the basics of `findByProps` and `discord webpack` to get started on Datamining. Contributions such as <kbd>Pull Requests</kbd> are welcomed, but make sure it is worth using.
 
 > [!IMPORTANT]
 > This is a small project I thought to start for people who don't know about **Datamining**. So nothing serious.
