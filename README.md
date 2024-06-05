@@ -1,5 +1,8 @@
 # 🐰 DISCORD DATAMINING WIKI & RESOURCES
 
+[![PRs are welcomed](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://is.gd/datamininghub)
+
 - Here you can find the basics of `findByProps` and `discord webpack` to get started on Datamining. Contributions such as <kbd>Pull Requests</kbd> are welcomed, but make sure it is worth using.
 
 > [!IMPORTANT]
@@ -38,3 +41,5 @@ findByProps("getUser").getUser("<user id>");
 `.getUser` is to confirm that we are about to execute this function. Functions in Discord are often called as **Props**.
 
 <kbd>Coming Soon!</kbd>
+
+![Statistics](https://repobeats.axiom.co/api/embed/89be0a1a1c8f641c54f9234a7423e7755352c746.svg 'Repobeats analytics image')
