@@ -1,0 +1,38 @@
+{
+  "name": "datamining-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Discord Snippets & Data Mining",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoUnDeRR/datamining-hub.git"
+  },
+  "keywords": [
+    "Datamining",
+    "Discord",
+    "Snippets"
+  ],
+  "engines": {
+    "node": ">=20.1.0"
+  },
+  "author": "FoUnDeRR, happyendermangit, NullDev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FoUnDeRR/datamining-hub/issues"
+  },
+  "homepage": "https://github.com/FoUnDeRR/datamining-hub#readme",
+  "devDependencies": {
+    "@babel/core": "^7.24.6",
+    "@babel/eslint-parser": "^7.24.6",
+    "eslint": "^9.4.0",
+    "prepend-file": "^2.0.1",
+    "terser": "^5.31.0",
+    "vite": "^5.2.12"
+  }
+}
