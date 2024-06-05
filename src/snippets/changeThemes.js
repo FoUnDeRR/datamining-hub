@@ -1,4 +1,4 @@
-import { findByProps } from "../util/utils";
+import { findByProps } from "../util/utils.js";
 
 const { ThemeTypes } = findByProps("ThemeTypes");
 

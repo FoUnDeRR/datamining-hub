@@ -25,6 +25,27 @@ const writeHeaderToFiles = async function(){
     });
 };
 
+/**
+ * Vite plugin to inline utils.js into the snippets
+ *
+ * @return {import("vite").Plugin}
+ */
+const inlineUtilsPlugin = () => {
+    return {
+        name: "inline-utils",
+        async transform(code, id){
+            if (id.endsWith(".js")){
+                const utilsCode = await fs.readFile(path.resolve("src/util/utils.js"), "utf8");
+                return {
+                    code: utilsCode + "\n" + code.replace(/import\s*{[^}]*}\s*from\s*['"][^'"]+['"];\s*/g, ""),
+                    map: null,
+                };
+            }
+            return null;
+        },
+    };
+};
+
 export default {
     build: {
         target: "esnext",
@@ -41,6 +62,9 @@ export default {
                 chunkFileNames: "[name].js",
                 format: "es",
             },
+            plugins: [
+                inlineUtilsPlugin(),
+            ],
         },
     },
     plugins: [{
