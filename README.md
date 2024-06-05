@@ -42,4 +42,4 @@ findByProps("getUser").getUser("<user id>");
 
 <kbd>Coming Soon!</kbd>
 
-![Statistics](https://repobeats.axiom.co/api/embed/89be0a1a1c8f641c54f9234a7423e7755352c746.svg 'Repobeats analytics image')
+![Alt](https://repobeats.axiom.co/api/embed/fcf2fef4e7d7cd7a0f286a1230bc30de407a81f8.svg "Repobeats analytics image")
