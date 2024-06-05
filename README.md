@@ -1,7 +1,7 @@
 # 🐰 DISCORD DATAMINING WIKI & RESOURCES
 
-[![PRs are welcomed](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://is.gd/datamininghub)
+![uwu](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
 
 - Here you can find the basics of `findByProps` and `discord webpack` to get started on Datamining. Contributions such as <kbd>Pull Requests</kbd> are welcomed, but make sure it is worth using.
 
