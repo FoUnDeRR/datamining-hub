@@ -12,7 +12,7 @@
 
 ---
 
-### #00ff00Table of Content
+### Table of Content
 
 - [Getting Started](#getting-started)
 - [Basics of the Basics](#basics-of-the-basics)
