@@ -20,12 +20,15 @@
 
 ---
 
+
+
+
 ## Getting started
 
 ### Prerequisites
 
 1. A good knowledge about JavaScript & TypeScript
-2. Familiarility with findByProps, functions, modules, strings, experiments
+2. Familiarility with [findByProps](src/util/utils.js), functions, modules, strings, experiments
 
 ### Basics of the Basics
 
@@ -52,6 +55,6 @@ findByProps("getUser").getUser("<user id>");
 
 `.getUser` is to confirm that we are about to execute this function. Functions in Discord are often called as **Props**.
 
-<kbd>Coming Soon!</kbd>
+#### MORE COMING SOON!
 
 ![Alt](https://repobeats.axiom.co/api/embed/fcf2fef4e7d7cd7a0f286a1230bc30de407a81f8.svg "Repobeats analytics image")
