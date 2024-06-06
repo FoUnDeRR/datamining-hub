@@ -10,6 +10,8 @@
 > [!IMPORTANT]
 > This is a small project I thought to start for people who don't know about **Datamining**. So nothing serious.
 
+---
+
 ### Table of Content
 
 - [Getting Started](#getting-started)
@@ -23,7 +25,7 @@
 ### Prerequisites
 
 1. A good knowledge about JavaScript & TypeScript
-2. Familiarility with functions (..props), modules, strings, experiments
+2. Familiarility with findByProps, functions, modules, strings, experiments
 
 ### Basics of the Basics
 
