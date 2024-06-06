@@ -1,6 +1,6 @@
 # __Useful Discord Servers__
 
-[!NOTE]
+> [!NOTE]
 > Communities that we think, are important for you. There are bunch described below, which has permanent invite links. If something is invalid, please open a <kbd>[Issue](https://github.com/FoUnDeRR/datamining-hub/issues)</kbd> and let us know!
 
 ## Officials
