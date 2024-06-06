@@ -27,6 +27,7 @@
 - [The Yone Zone 🥴](https://discord.gg/yoni)
 - [Sol Sanctum](https://discord.gg/ian)
 - [Jake's Test Server](https://discord.gg/jake)
+- [Dustin's Lounge](https://discord.gg/3aNVwdUfB8)
 
 ## Project-based
 - [Project Blurple](https://discord.gg/blurple)
