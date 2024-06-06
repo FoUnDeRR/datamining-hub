@@ -23,6 +23,7 @@
 - [Church Wungus](https://discord.gg/GRZYceptCu)
 - [The Yone Zone 🥴](https://discord.gg/yoni)
 - [Sol Sanctum](https://discord.gg/ian)
+- [Jake's Test Server](https://discord.gg/jake)
 
 ## Project-based
 - [Project Blurple](https://discord.gg/blurple)
@@ -44,6 +45,7 @@
 
 ## Apps' (formelly bots)
 - [Rythm HQ](https://discord.gg/rythm)
+- [R0WB0AT](https://discord.gg/b1nzy)
 - More will be added, feel free to suggest!
 
 ## Development
