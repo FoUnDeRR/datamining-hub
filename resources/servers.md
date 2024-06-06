@@ -50,6 +50,7 @@
 ## Apps' (formelly bots)
 - [Rythm HQ](https://discord.gg/rythm)
 - [R0WB0AT](https://discord.gg/b1nzy)
+- [TTS Bot](https://discord.gg/zWPWwQC) [Invite Link](https://discord.com/oauth2/authorize?client_id=513423712582762502&permissions=36719617&scope=bot%20applications.commands)
 - More will be added, feel free to suggest!
 
 ## Development
