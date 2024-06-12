@@ -39,7 +39,14 @@
 
 #### What is `findByProps`?
 
-It is widely used to locate functions and modules inside Discord's webpack.
+findByProps isn't the only one out there, there are some others like;
+- `findByCode`
+- `findByCodeLazy`
+- `findByPropsLazy`
+- `findByComponent`
+- `findByComponentLazy`
+
+Let's start with findByProps, It is widely used to locate functions and modules inside Discord's webpack.
 For example,
 
 ```js
