@@ -24,7 +24,7 @@
 
 ### Prerequisites
 
-1. A good knowledge about JavaScript & TypeScript
+1. A good knowledge about JavaScript
 2. Familiarility with [findByProps](src/util/utils.js), functions, modules, strings, experiments
 
 ### Basics of the Basics
