@@ -35,30 +35,8 @@
 > [!WARNING] 
 > **DO NOT** try to do experiments in your stable Discord client unless you know what you are doing. There are many chances that you will either break your client or get your account disabled. Instead, use [Discord Public Test Build](https://ptb.discord.com/download) or [Discord Canary Build](https://canary.discord.com/download)
 
-### Major Functions
-
-#### What is `findByProps`?
-
-findByProps isn't the only one out there, there are some others like;
-- `findByCode`
-- `findByCodeLazy`
-- `findByPropsLazy`
-- `findByComponent`
-- `findByComponentLazy`
-
-Let's start with findByProps, It is widely used to locate functions and modules inside Discord's webpack.
-For example,
-
-```js
-findByProps("getUser").getUser("<user id>");
-```
-
-#### Structure explained;
-
-`getUser` is a store. Discord has variety of stores to store their information on relative categories. In this case, `getUser` is a store called `UserStore`, **get** is a definition of receiving information about that store.
-
-`.getUser` is to confirm that we are about to execute this function. Functions in Discord are often called as **Props**.
-
-#### MORE COMING SOON!
+### Guides & Breakdowns for,
+- Functions - can be found from [here](info/functions)
+- More guides are on it's way here!
 
 ![Alt](https://repobeats.axiom.co/api/embed/fcf2fef4e7d7cd7a0f286a1230bc30de407a81f8.svg "Repobeats analytics image")
